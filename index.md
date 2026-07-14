@@ -1,5 +1,13 @@
 # Bitcoiners que Vivem de Alavancagem
 ### Entendendo os riscos da alavancagem e como simular cenários de liquidação e arbitragem
+Grupo 10
+Luiz Alves Correia Neto – 190083191​
+
+Jonas de Souza Fagundes – 180076272​
+
+Daniel Ricardo de Araújo Seguro - 251007430​
+
+Caio Vitor Martins Souza -
 
 ---
 
