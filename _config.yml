@@ -1,11 +1,28 @@
 title: Bitcoiners que Vivem de Alavancagem
 description: Simulador de operações alavancadas em Bitcoin
-theme: jekyll-theme-slate
+
 
 markdown: kramdown
 
+
+
+
+
+
+
+
+# Tema GitHub Pages (escuro, estilo Slate)
+remote_theme: pages-themes/slate@v0.2.0
+
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 header_pages:
   - index.md
+
+
+
+# Opções genéricas usadas por alguns temas (não quebram nada se não forem usadas)
+show_downloads: false
+github:
+  is_project_page: true
