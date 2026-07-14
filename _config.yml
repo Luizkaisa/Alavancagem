@@ -1,8 +1,6 @@
 title: Bitcoiners que Vivem de Alavancagem
 description: Simulador de operações alavancadas em Bitcoin
-theme: just-the-docs
-
-color_scheme: light
+theme: cayman
 
 markdown: kramdown
 
